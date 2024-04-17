@@ -13,13 +13,13 @@
 <br />
 <div align="center">
   <a href="https://ArchFlow/">
-    <img src="assets/icon.svg" alt="Logo" width="177" height="50">
+    <img src="/assets/icon.svg" alt="Logo" width="177" height="50">
   </a>
 
   <h3 align="center">ArchFlow</h3>
 
   <p align="center">
-    My personnal website 
+    Le site web d'une entreprise d'architecture
     <br />
     <a href="https://github.com/beloow/ArchFlow/index.html"><strong>Explore the docs »</strong></a>
     <br />
