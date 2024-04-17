@@ -60,7 +60,6 @@
 
 ➡️ Soon ⬅️
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -78,7 +77,6 @@
 * [![GitHub][github.com]][github-url]
 <!-- * [![Bootstrap][Bootstrap.com]][Bootstrap-url] -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -96,7 +94,6 @@
 
 See the [open issues](https://github.com/beloow/ArchFlow/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -106,7 +103,6 @@ Ryan QUEVA - [Linkedin](https://www.linkedin.com/in/ryan-queva) - Contact@ryanqu
 
 Project Link: [https://github.com/beloow/ArchFlow](https://github.com/beloow/ArchFlow)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
