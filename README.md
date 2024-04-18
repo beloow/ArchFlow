@@ -24,7 +24,7 @@
     <a href="https://github.com/beloow/ArchFlow/index.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://beloow.github.io/ArchFlow/">View Demo</a>
+    <a href="https://beloow.github.io/ArchFlow/">View Demo (beta)</a>
     ·
     <a href="https://github.com/beloow/ArchFlow/issues">Report Bug</a>
     ·
@@ -56,11 +56,17 @@
 ## About The Project
 
 
-👨‍🎓 Projet Site web d'une entreprise d'architecture 🙌 
+🌟Bienvenue dans le futur de l'architecture en ligne!🌟 
 
-➡️ Soon ⬅️
+Imaginez un site web où chaque clic vous transporte dans un monde où le design et la fonctionnalité se marient harmonieusement, où l'inspiration est à portée de main à tout moment.🤵🏻
 
+Dès que vous poserez les yeux sur notre site, vous serez accueilli par un design moderne et épuré, conçu pour répondre aux attentes les plus exigeantes des amateurs d'architecture d'aujourd'hui. Chaque détail a été pensé pour offrir une expérience immersive, où la beauté des lignes et des formes se mêle à la facilité d'utilisation.👌
 
+Que vous naviguiez sur votre ordinateur de bureau, votre tablette ou votre téléphone portable, notre site web est conçu pour s'adapter à votre appareil, grâce à une conception responsive qui garantit une expérience fluide et intuitive, où que vous soyez, quand vous le souhaitez.🖥️
+
+Ce projet représente également une étape importante pour moi, car c'est ma première utilisation de Tailwind CSS. Ce framework m'a permis d'exprimer ma créativité d'une manière nouvelle et innovante, en me donnant les outils nécessaires pour créer un design personnalisé et dynamique, tout en conservant une structure propre et modulaire.🤓
+
+En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'hésitez pas à aller regarder! 😉
 
 
 ### Built With
