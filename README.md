@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://ArchFlow/">
-    <img src="/assets/icon.svg" alt="Logo" width="177" height="50">
+    <img src="/assets/logo/assets/logo/png/logo-no-background.png" alt="Logo" width="500" height="200">
   </a>
 
   <h3 align="center">ArchFlow</h3>
