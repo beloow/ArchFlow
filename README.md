@@ -89,14 +89,15 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 
 - [x] Section Hero
 - [x] Section Header
-- [ ] Section STEPS
-- [ ] Section ABOUT
+- [x] Section STEPS
+- [x] Section ABOUT
 - [ ] Section TESTIMONIALS
 - [ ] Section WORK
 - [ ] Section NEWS
 - [ ] Section CONTACT
 - [ ] Section FOOTER
 - [ ] Section COPYRIGHT
+- [ ] Résoudre le problème d'image de github pages.
 
 See the [open issues](https://github.com/beloow/ArchFlow/issues) for a full list of proposed features (and known issues).
 
