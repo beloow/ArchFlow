@@ -16,7 +16,7 @@
     <img src="assets/logo/png/logo-no-background.png" alt="Logo" width="250" height="100">
   </a>
 
-  <h3 align="center">ArchFlow</h3>
+  <h2 align="center">ArchFlow</h2>
 
   <p align="center">
     Le futur de l'architecture en ligne
@@ -24,7 +24,7 @@
     <a href="https://github.com/beloow/ArchFlow/index.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://beloow.github.io/ArchFlow/">View Demo (beta)</a>
+    <a href="https://beloow.github.io/ArchFlow/">View Demo</a>
     ·
     <a href="https://github.com/beloow/ArchFlow/issues">Report Bug</a>
     ·
@@ -87,16 +87,31 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 <!-- ROADMAP -->
 ## Roadmap
 
+#### Part 1:
+
 - [x] Section Hero
 - [x] Section Header
 - [x] Section STEPS
 - [x] Section ABOUT
 - [x] Section TESTIMONIALS
-- [ ] Section WORK
+- [x] Section BRANDS
+- [x] Section WORK
+- [x] Section STATS
 - [ ] Section NEWS
 - [ ] Section CONTACT
 - [ ] Section FOOTER
 - [ ] Section COPYRIGHT
+
+- [ ] Publish release v1
+
+
+#### Part 2:
+
+- [ ] Review SEO
+- [ ] Adding scroll animations
+
+- [ ] Publish release v2
+
 
 See the [open issues](https://github.com/beloow/ArchFlow/issues) for a full list of proposed features (and known issues).
 
