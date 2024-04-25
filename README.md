@@ -101,7 +101,6 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 - [ ] Section CONTACT
 - [ ] Section FOOTER
 - [ ] Section COPYRIGHT
-
 - [ ] Publish release v1
 
 
@@ -109,7 +108,6 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 
 - [ ] Review SEO
 - [ ] Adding scroll animations
-
 - [ ] Publish release v2
 
 
