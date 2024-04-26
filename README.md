@@ -99,15 +99,17 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 - [x] Section STATS
 - [x] Section NEWS
 - [x] Section CONTACT
-- [ ] Section FOOTER
-- [ ] Section COPYRIGHT
-- [ ] Publish release v1
+- [x] Section FOOTER
+- [x] Section COPYRIGHT
+- [x] Publish release v1
 
 
 #### Part 2:
 
+- [ ] Adding animations
+- [ ] Change LoremIpsum text
+- [ ] Functional menu
 - [ ] Review SEO
-- [ ] Adding scroll animations
 - [ ] Publish release v2
 
 
