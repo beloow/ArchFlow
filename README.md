@@ -98,7 +98,7 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 - [x] Section WORK
 - [x] Section STATS
 - [x] Section NEWS
-- [ ] Section CONTACT
+- [x] Section CONTACT
 - [ ] Section FOOTER
 - [ ] Section COPYRIGHT
 - [ ] Publish release v1
