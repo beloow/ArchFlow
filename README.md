@@ -97,7 +97,7 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 - [x] Section BRANDS
 - [x] Section WORK
 - [x] Section STATS
-- [ ] Section NEWS
+- [x] Section NEWS
 - [ ] Section CONTACT
 - [ ] Section FOOTER
 - [ ] Section COPYRIGHT
