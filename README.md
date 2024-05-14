@@ -106,11 +106,10 @@ En bref, bonne découverte du projet ! ps : j'ai aussi fait d'autres projets, n'
 
 #### Part 2:
 
-- [ ] Adding animations
-- [ ] Change LoremIpsum text
-- [ ] Functional menu
-- [ ] Review SEO
-- [ ] Publish release v2
+- [x] Adding animations
+- [x] Functional menu
+- [x] Review SEO
+- [x] Publish release v2
 
 
 See the [open issues](https://github.com/beloow/ArchFlow/issues) for a full list of proposed features (and known issues).

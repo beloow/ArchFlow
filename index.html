@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="fr" class="scroll-smooth">
 
 <head>
     <meta charset="UTF-8" />
@@ -44,10 +44,8 @@
         href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet" 
     />
-
 </head>
 <body>
-
     <!-- header -->
     <header class="sticky top-0 h-[90px] shadow-xl z-30 bg-white">
         <div class="container mx-auto flex justify-between h-full items-center">
@@ -67,23 +65,22 @@
                     lg:h-full transition-all duration-300"
                     id="nav_menu"
                 >
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Testimonials</a></li>
-                    <li><a href="#">Our Work</a></li>
-                    <li><a href="#">News</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li class="nav_item"><a href="#hero">Home</a></li>
+                    <li class="nav_item"><a href="#about">About</a></li>
+                    <li class="nav_item"><a href="#testimonial">Testimonials</a></li>
+                    <li class="nav_item"><a href="#work">Our Work</a></li>
+                    <li class="nav_item"><a href="#news">News</a></li>
+                    <li class="nav_item"><a href="#contact">Contact</a></li>
                 </ul>
             </nav>
 
         </div>
     </header>
-
     <!-- page wrapper -->
     <main class="max-w-[1920px] mx-auto bg-white overflow-hidden">
         <div class="xl:bg-grid xl:bg-center xl:bg-repeat-y fixed top-0 bottom-0 left-0 right-0 z-10"></div>
         <!-- hero -->
-        <section class="hero h-[640px] xl:h-[840px] bg-hero bg-center lg:bg-cover bg-no-repeat bg-fixed xl:rounded-bl-[290px] relative z-20">
+        <section id="hero" class="hero h-[640px] xl:h-[840px] bg-hero bg-center lg:bg-cover bg-no-repeat bg-fixed xl:rounded-bl-[290px] relative z-20">
             <div class="container mx-auto h-full flex items-center justify-center xl:justify-start">
                 <!-- Text du Hero -->
                 <div class="hero__text w-[567px] flex flex-col items-center text-center xl:text-left lg:items-start">
@@ -98,7 +95,7 @@
         </section>
 
         <!-- steps -->
-        <section class="steps mt-[80px] xl:mt-[200px] relative z-20">
+        <section id="steps" class="steps mt-[80px] xl:mt-[200px] relative z-20">
             <div class="container mx-auto">
                 <!-- grid items -->
                 <div class="grid grid-cols-1 gap-12 xl:grid-cols-3">
@@ -150,12 +147,12 @@
         </section>
 
         <!-- about -->
-        <section class="about mt-[80px] xl:mt-[200px] relative z-20">
+        <section id="about" class="about mt-[80px] xl:mt-[200px] relative z-20">
             <div class="container mx-auto xl:px-0">
                 <div class="flex flex-col xl:flex-row text-center xl:text-left justify-between items-center gap-8 xl:gap-[74px]">
 
                     <!-- Left part -->
-                    <div class=" flex-1 order-2 xl:order-none max-w-xl xl:max-w-[410px] flex flex-col items-center xl:items-start gap-8">
+                    <div class="about__text flex-1 order-2 xl:order-none max-w-xl xl:max-w-[410px] flex flex-col items-center xl:items-start gap-8">
                         <h2 class="h2">Nous créons l’art de vivre élégant avec style</h2>
                         <p>
                             C’est un fait établi depuis longtemps qu’un lecteur sera distrait par 
@@ -188,7 +185,7 @@
         </section>
 
         <!-- testimonial -->
-        <section class="testimonial mt-[80px] xl:mt-[200px] relative z-20">
+        <section id="testimonial" class="testimonial mt-[80px] xl:mt-[200px] relative z-20">
             <div class="testimonial__bg container mx-auto bg-accent-secondary rounded-[70px] px-6">
                 <div class="flex flex-col items-center pt-[88px] pb-[110px]">
                     <!-- Title -->
@@ -281,7 +278,7 @@
         </section>
 
         <!-- Brands -->
-        <section class="brands mt-[80px] xl:mt-[150px] relative z-20">
+        <section id="brands" class="brands mt-[80px] xl:mt-[150px] relative z-20">
             <div class="container mx-auto">
                 <div class="flex flex-col xl:flex-row justify-between items-center gap-12">
                     <img class="brands__img" src="assets/brands/01.svg" alt="Brands">
@@ -294,7 +291,7 @@
         </section>
 
         <!-- work -->
-        <section class="work mt-[80px] xl:mt-[150px] relative z-20">
+        <section id="work" class="work mt-[80px] xl:mt-[150px] relative z-20">
             <div class="container mx-auto xl:px-0">
                 <!-- text -->
                 <div class="text-center mb-24">
@@ -364,7 +361,7 @@
         </section>
 
         <!-- stats -->
-        <section class="stats mt-[80px] xl:mt-[150px] relative z-20 bg-accent-secondary py-[80px] xl:py-[150px]">
+        <section id="stats" class="stats mt-[80px] xl:mt-[150px] relative z-20 bg-accent-secondary py-[80px] xl:py-[150px]">
             <div class="container mx-auto">
                 <!-- grid -->
                 <div class="grid grid-cols-1 xl:grid-cols-4 gap-12">
@@ -393,7 +390,7 @@
         </section>
 
         <!-- news -->
-        <section class="news mt-[80px] xl:mt-[150px] relative z-20">
+        <section id="news" class="news mt-[80px] xl:mt-[150px] relative z-20">
             <div class="container mx-auto px-0">
                 <!-- text -->
                 <div class="max-w-[810px] mx-auto text-center mb-[52px]">
@@ -450,7 +447,7 @@
         </section>
 
         <!-- contact -->
-        <section class="contact mt-[80px] xl:mt-[150px] relative z-20">
+        <section id="contact" class="contact mt-[80px] xl:mt-[150px] relative z-20">
             <div class="contact__container container mx-auto bg-primary sm:rounded-[70px] py-[80px]">
                 
                 <div class="contact__text max-w-[640px] mx-auto text-center">
@@ -468,7 +465,7 @@
         </section>
         
         <!-- footer -->
-        <footer class="footer mt-[80px] xl:mt-[150px] relative z-20">
+        <footer id="footer" class="footer mt-[80px] xl:mt-[150px] relative z-20">
             <div class="container mx-auto px-0">
                 <div class="flex flex-col xl:flex-row xl:gap-[100px] xl:mb-[150px]">
                     <!-- part left -->
@@ -531,9 +528,6 @@
             <!-- Copyright -->
             <p class="footer__copyright text-center text-lg py-10 bg-white xl:border-t">Copyright &copy; ArchFlow 2024. All rights reserved.</p>
         </footer>
-
-        <!-- div temp -->
-        <!-- <div class="h-[3000px]"></div> -->
     </main>
 
     <!-- Scroll reveal Js -->
